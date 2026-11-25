@@ -1,0 +1,16 @@
+{
+  "name": "ColdTern",
+  "short_name": "ColdTern",
+  "description": "AI operational analytics software for cold storage operators that identifies unusual refrigeration equipment readings and recurring maintenance concerns.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06111a",
+  "theme_color": "#06111a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
