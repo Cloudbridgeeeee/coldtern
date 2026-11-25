@@ -3,8 +3,8 @@ import type { Business } from './types'
 export const business: Business = {
   slug: 'coldtern',
   name: 'ColdTern',
-  domain: 'coldtern.top',
-  email: 'kayode@coldtern.top',
+  domain: 'coldtern.site',
+  email: 'kayode@coldtern.site',
   tagline: 'Understand cold storage equipment performance.',
   industries: ['Logistics', 'Supply Chain Management', 'Refrigeration'],
   description:

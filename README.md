@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for ColdTern.
 - Industry: Logistics, Supply Chain Management, Refrigeration
 - Founder: Kayode Adesanya (Founder & CEO)
 - Co-founder: Uche Nwankwo (Co-founder & CTO)
-- Contact: kayode@coldtern.top
+- Contact: kayode@coldtern.site
 - Business model: Storage-location subscriptions
 
 ## Stack
